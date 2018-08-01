@@ -1,0 +1,6 @@
+devel_space: /home/anoop/Downloads/ROS_maze_challenge-master/ch_171744_maze/devel
+install: false
+install_space: /home/anoop/Downloads/ROS_maze_challenge-master/ch_171744_maze/install
+profile: default
+source_space: /home/anoop/Downloads/ROS_maze_challenge-master/ch_171744_maze/src
+workspace: /home/anoop/Downloads/ROS_maze_challenge-master/ch_171744_maze

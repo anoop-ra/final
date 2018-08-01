@@ -1,0 +1,8 @@
+prefix=/home/anoop/jackal_navigation/install
+
+Name: jackal_msgs
+Description: Description of jackal_msgs
+Version: 0.5.4
+Cflags: -I/home/anoop/jackal_navigation/install/include
+Libs: -L/home/anoop/jackal_navigation/install/lib 
+Requires: std_msgs message_runtime

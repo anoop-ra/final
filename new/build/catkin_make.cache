@@ -1,0 +1,2 @@
+ch_171744_maze
+-DCATKIN_DEVEL_PREFIX=/home/anoop/new/devel -DCMAKE_INSTALL_PREFIX=/home/anoop/new/install -G Unix Makefiles

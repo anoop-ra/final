@@ -1,0 +1,8 @@
+prefix=/home/anoop/husky/install
+
+Name: husky_msgs
+Description: Description of husky_msgs
+Version: 0.3.0
+Cflags: -I/home/anoop/husky/install/include
+Libs: -L/home/anoop/husky/install/lib 
+Requires: std_msgs message_runtime

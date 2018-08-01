@@ -1,0 +1,8 @@
+prefix=/home/anoop/husky/install
+
+Name: husky_navigation
+Description: Description of husky_navigation
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/anoop/husky/install/lib 
+Requires: 

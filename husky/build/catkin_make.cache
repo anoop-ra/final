@@ -1,0 +1,2 @@
+husky/husky_base:husky/husky_bringup:husky/husky_control:husky/husky_description:husky/husky_msgs:husky/husky_navigation:husky/husky_robot:husky_desktop/husky_desktop:husky_desktop/husky_viz:husky_simulator/husky_gazebo:husky_simulator/husky_simulator
+-DCATKIN_DEVEL_PREFIX=/home/anoop/husky/devel -DCMAKE_INSTALL_PREFIX=/home/anoop/husky/install -G Unix Makefiles
